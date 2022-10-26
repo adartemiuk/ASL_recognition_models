@@ -1,0 +1,1 @@
+This is a part of my master thesis called "Real-time sign language recognition using deep learning". In this repository you can find scripts which allows to generate dataset, train, and evaluate CNN models
